@@ -1,2 +1,3 @@
 # shape-react
-This project help in finding area of various shapes.
+
+This project lets you select any shape among square, rectangle, rhombus, parallelogram and then help in finding area of these shapes.
